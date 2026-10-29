@@ -1,0 +1,6 @@
+{
+  "name": "DSP Lab",
+  "description": "Studio-grade Equalizer, DSP Rack, Reverb, Multi-band Compressor, Audio Laboratory Signal Generator & Telemetry Suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
